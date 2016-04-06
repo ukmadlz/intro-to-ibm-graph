@@ -1,9 +1,19 @@
 [
-  "index.md",
-  {
-    "filename": "author.md",
-    "attr": {
-      "id": "author"
-    }
-  }
+    "index.md",
+    {
+        "filename": "author.md",
+        "attr": {
+            "id": "author"
+        }
+    },
+    "where-to-start.md",
+    "what-are-graphs.md",
+    "initial-thoughts.html",
+    "graph-network-theory.md",
+    "brief-description.md",
+    "previous-example.html",
+    "whats-a-vertex.md",
+    "whats-an-edge.md",
+    "traversal.md",
+    "traversal-example.md"
 ]
