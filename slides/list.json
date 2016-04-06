@@ -29,5 +29,10 @@
     "how-to-use-ibm-graph.html",
     "available-via-ibm-bluemix.md",
     "how-to-interact-with-ibm-graph.md",
-    "endpoints.md"
+    "endpoints.md",
+    "vertices.md",
+    "edges.md",
+    "indexes.md",
+    "schemas.md",
+    "gremlin.md"
 ]
