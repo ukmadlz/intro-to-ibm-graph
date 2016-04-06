@@ -17,5 +17,10 @@
     "traversal.md",
     "traversal-example.md",
     "1-step-traversal.html",
-    "2-step-traversal.html"
+    "2-step-traversal.html",
+    "why-would-you-use-graphs.md",
+    "social-graphsnetworks.md",
+    "recommendation-engines.md",
+    "fraud-detection.md",
+    "large-scale-relational-problems.md"
 ]
