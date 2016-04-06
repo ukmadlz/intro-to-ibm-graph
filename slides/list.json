@@ -25,5 +25,9 @@
     "large-scale-relational-problems.md",
     "whats-ibm-graph.md",
     "based-on-tinkerpop3.md",
-    "the-stack.html"
+    "the-stack.html",
+    "how-to-use-ibm-graph.html",
+    "available-via-ibm-bluemix.md",
+    "how-to-interact-with-ibm-graph.md",
+    "endpoints.md"
 ]
