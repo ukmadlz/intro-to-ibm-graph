@@ -1,5 +1,5 @@
 #  Edge?
 
-The relationship between discreet data points
+The relationship between discrete data points
 
 ![Highlight Edges](images/basic-graph-highlight-edge.png)
