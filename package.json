@@ -20,6 +20,6 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "coffeelint": "^1.15.0"
+    "coffeelint": "^2.1.0"
   }
 }
